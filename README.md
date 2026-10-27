@@ -4,7 +4,7 @@
 Zainab Fatima
 
 ## Overview
-This repository contains the Task 3 backend project for the AUREX Full-Stack Engineering Internship (Month 2). It features a robust RESTful API built with Node.js and Express.js, connected to MongoDB Atlas using Mongoose schemas for persistent data operations[span_2](start_span)[span_2](end_span).
+This repository contains the Task 3 backend project for the AUREX Full-Stack Engineering Internship (Month 2). It features a robust RESTful API built with Node.js and Express.js, connected to MongoDB Atlas using Mongoose schemas for persistent data operations 
 
 ## Tech Stack
 - Node.js
